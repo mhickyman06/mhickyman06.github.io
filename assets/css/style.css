@@ -5560,6 +5560,7 @@ wpo-hero-slider-s3
   transform: scale(1);
   transition: all 0.3s;
   height:250px;
+  width:-webkit-fill-available;
 }
 .wpo-Service-section .wpo-Service-item:hover .wpo-Service-img img {
   transform: scale(1.2);
